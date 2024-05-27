@@ -22,4 +22,4 @@ Fork hosted in [GitHub](https://github.com/jimmon89/tcresearch). Page can be fou
 
 This is a fork of [Jesús Cuenca's Fork](https://jesuscuenca.github.io/tcresearch/)
 
-I have not yet made any changed to this fork. (Yet...)
+I have merged the additions for [GTNH](https://www.gtnewhorizons.com/) from [glowredman's Fork](https://github.com/glowredman/tcresearch/) into this IMO better site package.

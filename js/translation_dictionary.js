@@ -41,9 +41,12 @@ var translate = {
 	"mine": "perfodio",
 	"tool": "instrumentum",
 	"weapon": "telum",
+	"aversion": "aversio",
 	"armor": "tutamen",
+	"protect": "praemundio",
 	"hunger": "fames",
 	"greed": "lucrum",
+	"desire": "desiderium",
 	"craft": "fabrico",
 	"cloth": "pannus",
 	"mechanism": "machina",
@@ -61,5 +64,13 @@ var translate = {
 	"magnetism": "magneto",
 	"cheatiness": "nebrisum",
 	"radioactivity": "radio",
-	"stupidity": "stronito"
+	"stupidity": "stronito",
+	"apocalypse": "terminus",
+	"equality": "aequalitas",
+	"madness": "vesania",
+	"beginning": "primordium",
+	"constellation": "astrum",
+	"glory": "gloria",
+	"space": "caelum",
+	"boots": "tabernus"
 };
